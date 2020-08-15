@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		25204F3A24E862EE008541BA /* CareerQuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25204F3924E862EE008541BA /* CareerQuizViewController.swift */; };
+		25204F3C24E86330008541BA /* ProgramsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25204F3B24E86330008541BA /* ProgramsViewController.swift */; };
+		25204F3E24E8636F008541BA /* BooksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25204F3D24E8636F008541BA /* BooksViewController.swift */; };
+		25204F4024E863C2008541BA /* PodcastsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25204F3F24E863C2008541BA /* PodcastsViewController.swift */; };
+		25204F4224E8641F008541BA /* EduOppViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25204F4124E8641F008541BA /* EduOppViewController.swift */; };
+		25204F4424E864EB008541BA /* STEMCollegeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25204F4324E864EB008541BA /* STEMCollegeViewController.swift */; };
+		25204F4624E86538008541BA /* STEMHighViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25204F4524E86538008541BA /* STEMHighViewController.swift */; };
 		46BBBF3924E83C5F006B2508 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46BBBF3824E83C5F006B2508 /* AppDelegate.swift */; };
 		46BBBF3B24E83C5F006B2508 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46BBBF3A24E83C5F006B2508 /* SceneDelegate.swift */; };
 		46BBBF3D24E83C5F006B2508 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46BBBF3C24E83C5F006B2508 /* ViewController.swift */; };
@@ -36,6 +43,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		25204F3924E862EE008541BA /* CareerQuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CareerQuizViewController.swift; sourceTree = "<group>"; };
+		25204F3B24E86330008541BA /* ProgramsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramsViewController.swift; sourceTree = "<group>"; };
+		25204F3D24E8636F008541BA /* BooksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooksViewController.swift; sourceTree = "<group>"; };
+		25204F3F24E863C2008541BA /* PodcastsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodcastsViewController.swift; sourceTree = "<group>"; };
+		25204F4124E8641F008541BA /* EduOppViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EduOppViewController.swift; sourceTree = "<group>"; };
+		25204F4324E864EB008541BA /* STEMCollegeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = STEMCollegeViewController.swift; sourceTree = "<group>"; };
+		25204F4524E86538008541BA /* STEMHighViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = STEMHighViewController.swift; sourceTree = "<group>"; };
 		46BBBF3524E83C5F006B2508 /* TechHacks storyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TechHacks storyboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		46BBBF3824E83C5F006B2508 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		46BBBF3A24E83C5F006B2508 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +118,13 @@
 				46BBBF3824E83C5F006B2508 /* AppDelegate.swift */,
 				46BBBF3A24E83C5F006B2508 /* SceneDelegate.swift */,
 				46BBBF3C24E83C5F006B2508 /* ViewController.swift */,
+				25204F3924E862EE008541BA /* CareerQuizViewController.swift */,
+				25204F3B24E86330008541BA /* ProgramsViewController.swift */,
+				25204F3D24E8636F008541BA /* BooksViewController.swift */,
+				25204F3F24E863C2008541BA /* PodcastsViewController.swift */,
+				25204F4124E8641F008541BA /* EduOppViewController.swift */,
+				25204F4324E864EB008541BA /* STEMCollegeViewController.swift */,
+				25204F4524E86538008541BA /* STEMHighViewController.swift */,
 				46BBBF3E24E83C5F006B2508 /* Main.storyboard */,
 				46BBBF4424E83C62006B2508 /* Assets.xcassets */,
 				46BBBF4624E83C62006B2508 /* LaunchScreen.storyboard */,
@@ -262,10 +283,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25204F3A24E862EE008541BA /* CareerQuizViewController.swift in Sources */,
+				25204F4624E86538008541BA /* STEMHighViewController.swift in Sources */,
 				46BBBF3D24E83C5F006B2508 /* ViewController.swift in Sources */,
 				46BBBF4324E83C5F006B2508 /* TechHacks_storyboard.xcdatamodeld in Sources */,
 				46BBBF3924E83C5F006B2508 /* AppDelegate.swift in Sources */,
 				46BBBF3B24E83C5F006B2508 /* SceneDelegate.swift in Sources */,
+				25204F4424E864EB008541BA /* STEMCollegeViewController.swift in Sources */,
+				25204F3C24E86330008541BA /* ProgramsViewController.swift in Sources */,
+				25204F3E24E8636F008541BA /* BooksViewController.swift in Sources */,
+				25204F4224E8641F008541BA /* EduOppViewController.swift in Sources */,
+				25204F4024E863C2008541BA /* PodcastsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
