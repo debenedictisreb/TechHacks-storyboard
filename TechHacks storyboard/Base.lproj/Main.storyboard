@@ -18,8 +18,8 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="glk-IS-zHb">
                                 <rect key="frame" x="86" y="426" width="243" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="20"/>
+                                <color key="backgroundColor" red="0.93333333330000001" green="0.90980392160000001" blue="0.87058823529999996" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="20"/>
                                 <state key="normal" title="Take the Carrer Quiz!">
                                     <color key="titleColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
@@ -30,8 +30,8 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DCK-4Q-LIN">
                                 <rect key="frame" x="86" y="508" width="243" height="38"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="20"/>
+                                <color key="backgroundColor" red="0.93333333330000001" green="0.90980392160000001" blue="0.87058823529999996" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="20"/>
                                 <state key="normal" title="Programs">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
@@ -42,8 +42,8 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TFW-pd-Ddc">
                                 <rect key="frame" x="86" y="748" width="243" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="20"/>
+                                <color key="backgroundColor" red="0.93333333330000001" green="0.90980392160000001" blue="0.87058823529999996" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="20"/>
                                 <state key="normal" title="Educational Opportunities">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
@@ -54,8 +54,8 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="noB-DA-60L">
                                 <rect key="frame" x="86" y="587" width="243" height="38"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="20"/>
+                                <color key="backgroundColor" red="0.93333333330000001" green="0.90980392160000001" blue="0.87058823529999996" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="20"/>
                                 <state key="normal" title="Books ">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
@@ -66,8 +66,8 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ivb-dn-4d3">
                                 <rect key="frame" x="86" y="669" width="243" height="39"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="20"/>
+                                <color key="backgroundColor" red="0.93333333330000001" green="0.90980392160000001" blue="0.87058823529999996" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="20"/>
                                 <state key="normal" title="Podcasts">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
@@ -76,9 +76,19 @@
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="navigateHER" translatesAutoresizingMaskIntoConstraints="NO" id="2jx-uq-Zia">
-                                <rect key="frame" x="-16" y="-39" width="447" height="467"/>
+                                <rect key="frame" x="-12" y="-50" width="439" height="427"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="8" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="enY-xx-2bv">
+                                <rect key="frame" x="0.0" y="239" width="414" height="150"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Our mission is to help women and non gender conforming students to navigate their way through the STEAM field seamlessly as well as encourage them to stay in this otherwise non diverse field. 
+
+</string>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Bold" family="Bodoni 72" pointSize="19"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="highlightedColor" cocoaTouchSystemColor="darkTextColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.68214320188691913" blue="0.80317263463604627" alpha="1" colorSpace="calibratedRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -263,14 +273,100 @@
                     <view key="view" contentMode="scaleToFill" id="sCr-Vi-Vs1">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Kode with Klossy" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Asb-UD-NF5">
+                                <rect key="frame" x="20" y="46" width="209" height="40"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.58823529409999997" green="0.17254901959999999" blue="0.2156862745" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="30"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="highlightedColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="kwk" translatesAutoresizingMaskIntoConstraints="NO" id="hrq-PQ-V4d">
+                                <rect key="frame" x="250" y="20" width="134" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="9" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K4h-99-zo6">
+                                <rect key="frame" x="1" y="537" width="393" height="186"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text"> A nonprofit that provides clubs and programs for girls worldwide. The Summer programs are for beginner rising high school sophomores to rising seniors, which is meant to expose women to tech jobs. Applicants have to pay $300 dollars. As for the clubs, it is open for girls ranging from 3rd to 12th grade no matter the experience they have. The clubs are free.</string>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yuu-ZY-w6h">
+                                <rect key="frame" x="74" y="479" width="86" height="65"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button" image="more info"/>
+                                <connections>
+                                    <action selector="gwcInfo:" destination="EJ7-j7-K6y" eventType="touchUpInside" id="4oq-bf-z22"/>
+                                    <action selector="kwkInfo:" destination="EJ7-j7-K6y" eventType="touchUpInside" id="TQn-fe-gvQ"/>
+                                </connections>
+                            </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="girls-who-code" translatesAutoresizingMaskIntoConstraints="NO" id="diB-Nw-w2I">
+                                <rect key="frame" x="241" y="399" width="143" height="102"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="coS-96-Icw">
+                                <rect key="frame" x="299" y="731" width="102" height="77"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="55"/>
+                                <state key="normal" title="⇢">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <segue destination="Z6y-6T-3Ib" kind="show" id="w6Z-Mo-0yf"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jE6-27-UVr">
+                                <rect key="frame" x="74" y="94" width="86" height="68"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button" image="more info"/>
+                                <connections>
+                                    <action selector="kwkInfo:" destination="EJ7-j7-K6y" eventType="touchUpInside" id="gZ1-AT-rkH"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Girls Who Code" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KPz-aU-cx8">
+                                <rect key="frame" x="20" y="423" width="195" height="40"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.92941176469999998" green="0.3411764706" blue="0.2901960784" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="30"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="highlightedColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="7" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mLT-Kq-DmR">
+                                <rect key="frame" x="14" y="149" width="387" height="187"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text"> A free two week coding program made for girls and non binary people between the ages of 13-18. This program is meant to encourage women and non gender conforming people to get involved in the STEAM field and it provides a safe environment, while teaching an in depth curriculum. </string>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="19"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="0.74509803919999995" blue="0.83137254900000002" alpha="1" colorSpace="calibratedRGB"/>
                         <viewLayoutGuide key="safeArea" id="UzS-tN-fcG"/>
                     </view>
                     <navigationItem key="navigationItem" id="ke5-X2-1Pg"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cFl-H9-2y8" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="958" y="-508"/>
+            <point key="canvasLocation" x="957.97101449275374" y="-508.25892857142856"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="GQP-al-YFs">
+            <objects>
+                <viewController id="Z6y-6T-3Ib" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Od7-eE-rFk">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="0.74509803919999995" blue="0.83137254900000002" alpha="1" colorSpace="calibratedRGB"/>
+                        <viewLayoutGuide key="safeArea" id="FDi-Gj-prK"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="Be8-tj-cDo"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="mCV-Me-ssg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1744.9275362318842" y="-490.17857142857139"/>
         </scene>
         <!--Career Quiz View Controller-->
         <scene sceneID="B0G-zz-1J6">
@@ -290,6 +386,9 @@
         </scene>
     </scenes>
     <resources>
+        <image name="girls-who-code" width="216" height="144"/>
+        <image name="kwk" width="400" height="400"/>
+        <image name="more info" width="512" height="410"/>
         <image name="navigateHER" width="1500" height="1500"/>
     </resources>
 </document>

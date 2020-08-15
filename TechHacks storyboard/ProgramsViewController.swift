@@ -15,7 +15,13 @@ class ProgramsViewController: UIViewController {
 
         // Do any additional setup after loading the view.
     }
+    @IBAction func gwcInfo(_ sender: UIButton) {
+        UIApplication.shared.open(URL(string:"https://girlswhocode.com/")! as URL, options: [:], completionHandler: nil)
+    }
     
+    @IBAction func kwkInfo(_ sender: UIButton) {
+    UIApplication.shared.open(URL(string: "https://www.kodewithklossy.com/")! as URL, options: [:], completionHandler: nil)
+           }}
 
     /*
     // MARK: - Navigation
@@ -26,5 +32,3 @@ class ProgramsViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
-
-}
