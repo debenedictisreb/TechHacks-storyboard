@@ -277,6 +277,13 @@
                                     <action selector="compsci:" destination="2Qh-i7-3Yz" eventType="touchUpInside" id="jro-NB-Vav"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Tap to learn about schools that offer competitive programs for these areas of study!" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b7G-VF-b07">
+                                <rect key="frame" x="47" y="6" width="321" height="86"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="21"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.68235294120000001" blue="0.80392156859999997" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                         <viewLayoutGuide key="safeArea" id="5Cv-Qh-9SZ"/>
@@ -365,6 +372,13 @@
                                     <action selector="enviornmental:" destination="em3-Ar-VAJ" eventType="touchUpInside" id="EYK-tl-14c"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Tap to learn more about the following classes!" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="48O-Kk-Tze">
+                                <rect key="frame" x="10" y="39" width="394" height="28"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="23"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.68235294120000001" blue="0.80392156859999997" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                         <viewLayoutGuide key="safeArea" id="eSA-PD-4zr"/>
@@ -2095,6 +2109,7 @@ Traits: strong technical skills, analytical, highly organized, intellectual curi
                                 </state>
                                 <connections>
                                     <action selector="compsci:" destination="2Qh-i7-3Yz" eventType="touchUpInside" id="hJN-mx-ECd"/>
+                                    <action selector="stemmarketing:" destination="HIc-HM-lhI" eventType="touchUpInside" id="QNk-Ne-FEI"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pwa-C3-eQK">
@@ -2106,6 +2121,7 @@ Traits: strong technical skills, analytical, highly organized, intellectual curi
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
+                                    <action selector="backend:" destination="HIc-HM-lhI" eventType="touchUpInside" id="nge-4V-Vqo"/>
                                     <action selector="compsci:" destination="2Qh-i7-3Yz" eventType="touchUpInside" id="FjE-YS-CUs"/>
                                 </connections>
                             </button>
@@ -2119,6 +2135,7 @@ Traits: strong technical skills, analytical, highly organized, intellectual curi
                                 </state>
                                 <connections>
                                     <action selector="compsci:" destination="2Qh-i7-3Yz" eventType="touchUpInside" id="qZj-J7-rk1"/>
+                                    <action selector="datasci:" destination="HIc-HM-lhI" eventType="touchUpInside" id="wRL-r2-9nM"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MPc-is-2QW">
@@ -2155,12 +2172,13 @@ Traits: strong technical skills, analytical, highly organized, intellectual curi
                                 </state>
                                 <connections>
                                     <action selector="compsci:" destination="2Qh-i7-3Yz" eventType="touchUpInside" id="WIS-6P-osf"/>
+                                    <action selector="machine:" destination="HIc-HM-lhI" eventType="touchUpInside" id="YLD-DL-pMT"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2QF-pY-Q3p">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="20" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2QF-pY-Q3p">
                                 <rect key="frame" x="47" y="680" width="326" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="20"/>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="15"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -2173,6 +2191,7 @@ Traits: strong technical skills, analytical, highly organized, intellectual curi
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
+                                    <action selector="appdev:" destination="HIc-HM-lhI" eventType="touchUpInside" id="35I-yL-aG1"/>
                                     <action selector="compsci:" destination="2Qh-i7-3Yz" eventType="touchUpInside" id="Ken-LZ-KKs"/>
                                 </connections>
                             </button>
@@ -2193,6 +2212,9 @@ Traits: strong technical skills, analytical, highly organized, intellectual curi
                         <viewLayoutGuide key="safeArea" id="ukY-YS-9se"/>
                     </view>
                     <navigationItem key="navigationItem" id="qF7-HF-EoQ"/>
+                    <connections>
+                        <outlet property="cool" destination="2QF-pY-Q3p" id="HTq-nZ-JXu"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="qZx-Uf-hIv" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
