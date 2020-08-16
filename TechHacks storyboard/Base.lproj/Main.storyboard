@@ -443,23 +443,6 @@ Traits: creative, problem-solving, patience, always learning
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VoY-GA-vf6">
-                                <rect key="frame" x="147" y="711" width="121" height="74"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.58823529409999997" green="0.17254901959999999" blue="0.2156862745" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="17"/>
-                                <state key="normal" title="CLICK HERE! ">
-                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                </state>
-                            </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="WANT A MORE IN DEPTH CAREER QUIZ? " textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5ks-PD-6Wp">
-                                <rect key="frame" x="99" y="654" width="200" height="49"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.58823529409999997" green="0.17254901959999999" blue="0.2156862745" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="17"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.68235294120000001" blue="0.80392156859999997" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                         <viewLayoutGuide key="safeArea" id="JH1-KN-3t6"/>
@@ -1973,23 +1956,6 @@ Traits: creative, problem-solving, patience, always learning
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lxE-UP-NB0">
-                                <rect key="frame" x="147" y="738" width="121" height="74"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.58823529409999997" green="0.17254901959999999" blue="0.2156862745" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="17"/>
-                                <state key="normal" title="CLICK HERE! ">
-                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                </state>
-                            </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="WANT A MORE IN DEPTH CAREER QUIZ? " textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0um-Fs-sRV">
-                                <rect key="frame" x="107" y="681" width="200" height="49"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.58823529409999997" green="0.17254901959999999" blue="0.2156862745" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="17"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.68235294120000001" blue="0.80392156859999997" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                         <viewLayoutGuide key="safeArea" id="aJj-fh-Ncc"/>
@@ -2052,23 +2018,6 @@ Traits: flexible, self-motivated, critical thinking, active listener, artistic
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CiI-sW-It4">
-                                <rect key="frame" x="138" y="731" width="121" height="74"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.58823529409999997" green="0.17254901959999999" blue="0.2156862745" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="17"/>
-                                <state key="normal" title="CLICK HERE! ">
-                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                </state>
-                            </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="WANT A MORE IN DEPTH CAREER QUIZ? " textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nhR-RP-7c6">
-                                <rect key="frame" x="98" y="662" width="200" height="49"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.58823529409999997" green="0.17254901959999999" blue="0.2156862745" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="17"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.68235294120000001" blue="0.80392156859999997" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                         <viewLayoutGuide key="safeArea" id="Tlw-bW-tMn"/>
@@ -2079,10 +2028,10 @@ Traits: flexible, self-motivated, critical thinking, active listener, artistic
             </objects>
             <point key="canvasLocation" x="2437.68115942029" y="-1303.125"/>
         </scene>
-        <!--View Controller-->
+        <!--Cloud View Controller-->
         <scene sceneID="VRY-nm-jr2">
             <objects>
-                <viewController id="BsE-ZH-uwK" sceneMemberID="viewController">
+                <viewController id="BsE-ZH-uwK" customClass="cloudViewController" customModule="TechHacks_storyboard" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="vqS-GF-fBc">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -2101,18 +2050,6 @@ Traits: flexible, self-motivated, critical thinking, active listener, artistic
                                 <rect key="frame" x="20" y="167" width="374" height="215"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="9" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uPK-yx-yLU">
-                                <rect key="frame" x="11" y="414" width="393" height="240"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">Cloud Engineers are in charge of planning, designing, developing cloud-based applications, managing cloud environments in accordance with company security guidelines. Are also in charge of helping companies develop cloud services and further their cloud understanding and technology. 
-
-Traits: strong technical skills, analytical, highly organized, intellectual curiosity
-
-</string>
-                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="20"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ezz-ce-aoR">
                                 <rect key="frame" x="344" y="767" width="60" height="34"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -2128,6 +2065,18 @@ Traits: strong technical skills, analytical, highly organized, intellectual curi
                                 <rect key="frame" x="300" y="799" width="88" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="9" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uPK-yx-yLU">
+                                <rect key="frame" x="11" y="414" width="393" height="240"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Cloud Engineers are in charge of planning, designing, developing cloud-based applications, managing cloud environments in accordance with company security guidelines. Are also in charge of helping companies develop cloud services and further their cloud understanding and technology. 
+
+Traits: strong technical skills, analytical, highly organized, intellectual curiosity
+
+</string>
+                                <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-Book" family="Bodoni 72" pointSize="20"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -2590,7 +2539,7 @@ Traits: strong technical skills, analytical, highly organized, intellectual curi
         <segue reference="RM3-jH-3Ll"/>
         <segue reference="MvJ-81-pKE"/>
         <segue reference="aU9-Z4-ROF"/>
-        <segue reference="4Dz-uQ-1Rh"/>
+        <segue reference="7II-Pz-KE0"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="AI HACKS" width="959" height="959"/>

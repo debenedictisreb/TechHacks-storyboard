@@ -15,7 +15,7 @@ class ProgramsFourViewController: UIViewController {
 
         // Do any additional setup after loading the view.
     }
-    @IBAction func microInfo(_ sender: Any) { UIApplication.shared.open(URL(string:"https://careers.microsoft.com/students/us/en/us-internship")! as URL, options: [:], completionHandler: nil)
+    @IBAction func microInfo(_ sender: UIButton) { UIApplication.shared.open(URL(string:"https://careers.microsoft.com/students/us/en/us-internship")! as URL, options: [:], completionHandler: nil)
     }
     
 

@@ -18,7 +18,7 @@ class ProgramsThreeViewController: UIViewController {
     @IBAction func tecInfo(_ sender: UIButton) {  UIApplication.shared.open(URL(string:"https://techacks.ml/")! as URL, options: [:], completionHandler: nil)
 
     }
-    @IBAction func aihacksInfo(_ sender: Any) { UIApplication.shared.open(URL(string:"https://www.aihacks.org/")! as URL, options: [:], completionHandler: nil)
+    @IBAction func aihacksInfo(_ sender: UIButton) { UIApplication.shared.open(URL(string:"https://www.aihacks.org/")! as URL, options: [:], completionHandler: nil)
     }
     
     
