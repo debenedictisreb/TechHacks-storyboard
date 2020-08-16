@@ -27,6 +27,7 @@
 		46BBBF4824E83C62006B2508 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46BBBF4624E83C62006B2508 /* LaunchScreen.storyboard */; };
 		46BBBF5324E83C63006B2508 /* TechHacks_storyboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46BBBF5224E83C63006B2508 /* TechHacks_storyboardTests.swift */; };
 		46BBBF5E24E83C63006B2508 /* TechHacks_storyboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46BBBF5D24E83C63006B2508 /* TechHacks_storyboardUITests.swift */; };
+		4C4E9AB324E8D5FF002F5CCB /* PodcastsOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4E9AB224E8D5FF002F5CCB /* PodcastsOneViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +74,7 @@
 		46BBBF5924E83C63006B2508 /* TechHacks storyboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TechHacks storyboardUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		46BBBF5D24E83C63006B2508 /* TechHacks_storyboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TechHacks_storyboardUITests.swift; sourceTree = "<group>"; };
 		46BBBF5F24E83C63006B2508 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C4E9AB224E8D5FF002F5CCB /* PodcastsOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodcastsOneViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 				25E1F0D124E8C0D400C6F70A /* ProgramsThreeViewController.swift */,
 				25E1F0D324E8C1B700C6F70A /* ProgramsFourViewController.swift */,
 				25204F3F24E863C2008541BA /* PodcastsViewController.swift */,
+				4C4E9AB224E8D5FF002F5CCB /* PodcastsOneViewController.swift */,
 				25204F4124E8641F008541BA /* EduOppViewController.swift */,
 				25204F4324E864EB008541BA /* STEMCollegeViewController.swift */,
 				25204F4524E86538008541BA /* STEMHighViewController.swift */,
@@ -307,6 +310,7 @@
 				25204F3C24E86330008541BA /* ProgramsViewController.swift in Sources */,
 				25E1F0D024E8C09100C6F70A /* ProgramsTwoViewController.swift in Sources */,
 				25204F3E24E8636F008541BA /* BooksViewController.swift in Sources */,
+				4C4E9AB324E8D5FF002F5CCB /* PodcastsOneViewController.swift in Sources */,
 				25204F4224E8641F008541BA /* EduOppViewController.swift in Sources */,
 				25E1F0CE24E8C04E00C6F70A /* ProgramsOneViewController.swift in Sources */,
 				25204F4024E863C2008541BA /* PodcastsViewController.swift in Sources */,

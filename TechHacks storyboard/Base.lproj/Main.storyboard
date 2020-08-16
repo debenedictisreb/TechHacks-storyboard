@@ -140,6 +140,9 @@
                                 <state key="normal" title="No">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="nG5-8w-dEc" kind="show" id="aU9-Z4-ROF"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="n7J-jp-BUG">
                                 <rect key="frame" x="20" y="315" width="374" height="48"/>
@@ -799,6 +802,16 @@
                     <view key="view" contentMode="scaleToFill" id="o8U-ox-CQn">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="q6g-cD-I3f">
+                                <rect key="frame" x="129" y="389" width="156" height="64"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="R3d-xT-zJM" kind="show" id="UDp-cL-jKa"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="CKa-h3-ETK"/>
                     </view>
@@ -806,7 +819,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="WBj-dg-J5X" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="958" y="-1175"/>
+            <point key="canvasLocation" x="957.97101449275374" y="-1175.2232142857142"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="aaj-gN-Ean">
@@ -848,6 +861,9 @@
                                 <state key="normal" title="Different country">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="iko-mD-wCl" kind="show" id="9cE-td-PF4"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yuw-yU-mfu">
                                 <rect key="frame" x="20" y="519" width="374" height="48"/>
@@ -858,6 +874,9 @@
                                 <state key="normal" title="Small town">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="iko-mD-wCl" kind="show" id="Ocx-qM-9jt"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K6c-rZ-43z">
                                 <rect key="frame" x="20" y="630" width="374" height="49"/>
@@ -868,6 +887,9 @@
                                 <state key="normal" title="Big city">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="iko-mD-wCl" kind="show" id="MvJ-81-pKE"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.68235294117647061" blue="0.80392156862745101" alpha="1" colorSpace="calibratedRGB"/>
@@ -917,6 +939,9 @@
                                 <state key="normal" title="Radio">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="I6Y-5O-iSI" kind="show" id="PzB-FY-t42"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dB8-Np-dBZ">
                                 <rect key="frame" x="20" y="461" width="374" height="48"/>
@@ -927,6 +952,9 @@
                                 <state key="normal" title="Internet">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="I6Y-5O-iSI" kind="show" id="G64-aZ-bCx"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dl0-MS-e1d">
                                 <rect key="frame" x="20" y="558" width="374" height="48"/>
@@ -937,6 +965,9 @@
                                 <state key="normal" title="Film">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="I6Y-5O-iSI" kind="show" id="RM3-jH-3Ll"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4hO-t4-uk9">
                                 <rect key="frame" x="20" y="659" width="374" height="48"/>
@@ -947,6 +978,9 @@
                                 <state key="normal" title="Laptop">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="I6Y-5O-iSI" kind="show" id="9kf-R1-ujJ"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.68235294120000001" blue="0.80392156859999997" alpha="1" colorSpace="calibratedRGB"/>
@@ -1079,6 +1113,9 @@
                                 <rect key="frame" x="58" y="96" width="292" height="298"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button" image="TECHSETTERS"/>
+                                <connections>
+                                    <action selector="techsetters:" destination="om2-CO-epC" eventType="touchUpInside" id="Nz6-ka-IzV"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="0.83921568627450982" green="0.57647058823529407" blue="0.51372549019607838" alpha="1" colorSpace="calibratedRGB"/>
@@ -1087,6 +1124,7 @@
                     <navigationItem key="navigationItem" id="gQj-BQ-m1C"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uqU-xb-ONB" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+                <exit id="om2-CO-epC" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
             <point key="canvasLocation" x="4057.971014492754" y="829.6875"/>
         </scene>
@@ -1248,7 +1286,88 @@
             </objects>
             <point key="canvasLocation" x="6935" y="830"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="Lk6-BR-Auc">
+            <objects>
+                <viewController id="R3d-xT-zJM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="PF5-Hn-vvg">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="DAr-L8-a6E"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="0Kr-ex-Qg1"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="U3e-Ts-QHb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1745" y="-1175"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="lVr-P0-Sm1">
+            <objects>
+                <viewController id="JPg-Fd-NTk" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="EGy-bh-SAM">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="Xc5-LZ-czn"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Rzk-iJ-c55" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2545" y="-1175"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="ffb-xW-vwR">
+            <objects>
+                <viewController id="U6l-CT-h7V" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="IIH-uV-bIW">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="zLb-RA-g8L"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jlL-OG-LbN" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3384" y="-1175"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="pQg-ig-V73">
+            <objects>
+                <viewController id="dML-77-EF5" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Hk9-ob-Ozg">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="aJj-fh-Ncc"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4RM-hJ-19w" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4264" y="-1175"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="AmQ-IS-b6J">
+            <objects>
+                <viewController id="HIc-HM-lhI" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="bsT-1h-1Q6">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="ukY-YS-9se"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qZx-Uf-hIv" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="5174" y="-1175"/>
+        </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="RM3-jH-3Ll"/>
+        <segue reference="MvJ-81-pKE"/>
+        <segue reference="aU9-Z4-ROF"/>
+    </inferredMetricsTieBreakers>
     <resources>
         <image name="AI HACKS" width="959" height="959"/>
         <image name="AI4All" width="400" height="400"/>
